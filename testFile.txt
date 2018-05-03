@@ -7,4 +7,4 @@
 
 Hi Valentin! This is Jeka =)
 
-Test merge conflict
+Test merge conflict in Master
